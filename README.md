@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 个人介绍 🗿：
+
+- 🏫 在校学生 佛系开发 在线摸鱼
+- 💻 Coding.......
+---
+
+### 📝联系方式：
+
+- 📡 QQ：1635170329
+- 📧 E-mail：1635170329#qq.com（#换为@）
+
+---
+
+### 🖇  WebSites:
+
+- VmythV's Blog <https://vmythv.github.io>
+
+---
