@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 个人介绍 🗿：
+### 🗿 个人介绍：
 
 - 🏫 在校学生 佛系开发 在线摸鱼
 - 💻 Coding.......
 ---
 
-### 开发技能 🌱：
+### 🌱 开发技能：
 
 - 熟悉Java基础扎实，熟悉数据结构与算法，熟悉主流的Java设计模式
 - 熟悉计算机网络五层结构，理解TCP/IP协议栈等各种计算机网路等协议
@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 - 熟悉Spring Cloud微服务框架和技术
 ---
 
-### 📝联系方式：
+### 📝 联系方式：
 
 - 📡 QQ：1635170329
 - 📧 E-mail：1635170329#qq.com（#换为@）
 
 ---
 
-### 🖇  WebSites:
+### 🖇 WebSites:
 
 - VmythV's Blog <https://vmythv.github.io>
 
