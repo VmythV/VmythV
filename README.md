@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 🌱 开发技能：
 
 - 熟悉Java基础扎实，熟悉数据结构与算法，熟悉主流的Java设计模式
-- 熟悉计算机网络五层结构，理解TCP/IP协议栈等各种计算机网路等协议
+- 熟悉计算机网络五层结构，理解TCP/IP协议栈等各种计算机网络等协议
 - 掌握JavaWeb基础,熟练掌握Servlet/JSP和JSTL标签使用
 - 掌握HTML、CSS、JavaScript基本语法，熟悉VUE前端框架的使用
 - 熟练使用Eclipse/IDEA开发工具，Maven项目管理，Git版本控制工具
