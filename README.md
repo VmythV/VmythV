@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 🗿 个人介绍：
 
-- 🏫 在校学生 佛系开发 在线摸鱼
+- 🏫 在校学生 （信息与计算科学专业）
 - 💻 Coding.......
 ---
 
