@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 - VmythV's Blog <https://vmythv.github.io>
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VmythV&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VmythV)](https://github.com/VmythV)
