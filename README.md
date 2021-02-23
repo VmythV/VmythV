@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### 🗿 个人介绍：
 
 - 🏫 在校学生 （信息与计算科学专业）
@@ -47,5 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VmythV&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VmythV)](https://github.com/VmythV/DesignPattern)
+-->
