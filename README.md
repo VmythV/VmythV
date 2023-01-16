@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 熟悉Spring Boot框架、了解Spring Security框架
 - 熟悉Spring Cloud微服务框架和技术
 ---
-
+<!--
 ### 📝 联系方式：
 
 - 📡 QQ：1635170329
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - VmythV's Blog <https://vmythv.github.io>
 
 ---
-
+-->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VmythV&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VmythV)](https://github.com/VmythV/DesignPattern)
