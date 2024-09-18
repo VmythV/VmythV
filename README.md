@@ -15,36 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🗿 个人介绍：
+### 🗿 Personal introduction：
 
-- 🏫 一年开发经验
+- 🏫 two year coding experience
 - 💻 Coding.......
 ---
 
-### 🌱 开发技能：
+### 🌱 Development skills：
 
-- 熟悉Java基础扎实，熟悉数据结构与算法，熟悉主流的Java设计模式
-- 熟悉计算机网络五层结构，理解TCP/IP协议栈等各种计算机网络等协议
-- 掌握JavaWeb基础,熟练掌握Servlet/JSP和JSTL标签使用
-- 掌握HTML、CSS、JavaScript基本语法，熟悉VUE前端框架的使用
-- 熟练使用Eclipse/IDEA开发工具，Maven项目管理，Git版本控制工具
-- 熟悉Linux系统基本命令，并部署简单java项目
-- 熟悉MySQL关系型数据库，熟练掌握SQL语句 
-- 熟练使用Spring、SpringMVC、Mybatis、Mybatis-Plus框架
-- 熟悉Spring Boot框架、了解Spring Security框架
-- 熟悉Spring Cloud微服务框架和技术
+- Strong foundation in Java fundamentals, with proficiency in data structures, algorithms, and widely-used Java design patterns
+- Comprehensive understanding of the five-layer computer network architecture, with in-depth knowledge of the TCP/IP protocol stack and various network protocols
+- Mastery of JavaWeb essentials, including expert utilization of Servlet/JSP and JSTL tags
+- Proficient in HTML, CSS, and JavaScript core syntax, with practical experience in implementing Vue.js frontend framework
+- Advanced skills in Eclipse/IntelliJ IDEA development environments, Maven project management, and Git version control systems
+- Competent in Linux system administration, including basic command-line operations and deployment of Java applications
+- Extensive experience with MySQL relational database management system and advanced SQL query composition
+- Expert-level implementation of Spring, Spring MVC, MyBatis, and MyBatis-Plus frameworks
+- Proficient in Spring Boot framework development, with working knowledge of Spring Security
+- Comprehensive understanding and practical application of Spring Cloud microservices architecture and associated technologies
+  
 ---
 <!--
 ### 📝 联系方式：
 
-- 📡 QQ：1635170329
-- 📧 E-mail：1635170329#qq.com（#换为@）
+- 📧 E-mail：meiwd1314#gmail.com（# replace @）
 
 ---
 
 ### 🖇 WebSites:
-
+<!--
 - VmythV's Blog <https://vmythv.github.io>
+-->
 
 ---
 -->
